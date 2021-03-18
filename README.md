@@ -49,7 +49,7 @@ JSTime jsTime;
 ### Add delay interval to execute setinterval
 
 ```CPP
- //回调函数每隔1s执行一次，不会自动停止
+ //回调函数每隔1s执行一次，不会自动停止 
  //返回timeId 是负数, clearTime时使用
  //The callback function is executed every 1s and does not stop automatically
  //The return timeid is a negative number, which is used when cleartime
