@@ -1,7 +1,7 @@
 /*
  * 受javascript的 setTimeout 和 setInterval启发 实现的延时定时器 
  * 适合延时时间比较长, 延时精度要求不高的场合
- * github: https://github.com/chengxg/cxg-arduino-lib
+ * github: https://github.com/chengxg/CxgJSTime
  * @Author: chengxg
  * @Date: 2021-01-15
  * version 1.0.0
